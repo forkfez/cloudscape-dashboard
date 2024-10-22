@@ -12,7 +12,7 @@ export function App() {
 
   return (
     <>
-      <p>ABS</p>
+      <h1>ABS</h1>
     </>
   )
 }
